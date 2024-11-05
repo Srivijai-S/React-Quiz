@@ -17,24 +17,7 @@ Copy code
 ```
 git clone https://github.com/Srivijai-S/React-Quiz.git
 ```
-Navigate to the project folder:
-bash
-Copy code
-```
-cd react-quiz-app
-```
-Install the dependencies:
-bash
-Copy code
-```
-npm install
-```
-Run the app:
-bash
-Copy code
-```
-npm start
-```
+
 Usage 
 Open the app in your browser (http://localhost:3000 by default).
 
