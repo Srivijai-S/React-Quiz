@@ -9,11 +9,10 @@ This project is a quiz application with 15 React questions, covering topics from
 ✅ Immediate Feedback - Displays if your answer is correct or incorrect after each question.
 🏆 Final Score Display - Shows your score at the end of the quiz.
 🔄 State Management with useReducer - Efficiently handles the quiz state, from answers and score to question navigation.
-💻 Responsive Design - Adapts to various screen sizes.
 Installation
 Clone the repository:
 bash
-Copy code 
+
 ```
 git clone https://github.com/Srivijai-S/React-Quiz.git
 ```
@@ -21,8 +20,6 @@ git clone https://github.com/Srivijai-S/React-Quiz.git
 Usage 
 Open the app in your browser (http://localhost:3000 by default).
 
-Answer each question by selecting an option and clicking "Next" to proceed.
-After the final question, your score and performance feedback will be displayed.
 Technologies Used
 React JS - JavaScript library for building the user interface.
 CSS - Styling for the quiz layout and design.
