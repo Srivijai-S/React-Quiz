@@ -29,7 +29,9 @@ This app utilizes useReducer for efficient state management. The reducer functio
 
 <h3>Screenshots</h3>
 Include screenshots of the quiz interface here.
-![image](https://github.com/user-attachments/assets/48b57c77-863c-4e48-8faf-b38271ea77a3)
+
+![image](https://github.com/user-attachments/assets/9299fca8-7423-4c36-a503-9bbc93b41df2)
+
 
 License
 This project is open-source and available under the MIT License.
